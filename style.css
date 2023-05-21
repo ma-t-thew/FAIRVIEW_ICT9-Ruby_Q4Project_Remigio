@@ -1,0 +1,27 @@
+.background{
+	background-image: url(background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.font1{
+	font-family: 'Playfair Display', serif;
+	color: #2A1A1A;
+}
+
+.font2{
+	font-family: 'Abril Fatface', cursive;
+	color: #2A1A1A;
+	font-size: 70px;
+}
+
+.column{
+	background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 10px;
+}
+
+.center{
+	text-align: center;
+}
